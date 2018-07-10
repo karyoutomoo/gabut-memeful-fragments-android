@@ -28,6 +28,7 @@
             <Button
                 android:id="@+id/profile"
                 android:text="Profile"
+                android:textSize="10sp"
                 android:onClick="gotoFragmentProfile"
                 android:drawableLeft="@drawable/profile"
                 android:layout_width="wrap_content"
@@ -37,6 +38,7 @@
             <Button
                 android:id="@+id/home"
                 android:text="Home"
+                android:textSize="10sp"
                 android:onClick="gotoFragmentHome"
                 android:drawableLeft="@drawable/home"
                 android:layout_width="wrap_content"
@@ -46,6 +48,7 @@
             <Button
                 android:id="@+id/gallery"
                 android:text="Gallery"
+                android:textSize="10sp"
                 android:onClick="gotoFragmentGallery"
                 android:drawableLeft="@drawable/gallery"
                 android:layout_width="wrap_content"

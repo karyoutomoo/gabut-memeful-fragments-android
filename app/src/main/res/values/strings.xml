@@ -6,4 +6,8 @@
     <string name="welcome">SELAMAT DATANG, VISITOR</string>
     <string name="name">Super Mario</string>
     <string name="username">"@supersekali"</string>
+
+    <string name="title_activity_name">NameActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>
